@@ -1,3 +1,25 @@
 body {
 	background-color: #adc4ce;
+	margin: 0;
+}
+
+.wrapper {
+	background-color: yellow;
+}
+
+.header {
+	background-color: green;
+}
+
+.logo {
+	background-color: orange;
+}
+
+.navigatiebalk {
+	background-color: darkred;
+	color: white;
+}
+
+.header img {
+	size: 500px;
 }
