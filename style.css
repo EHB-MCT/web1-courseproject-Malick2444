@@ -9,6 +9,7 @@ body {
 
 .header {
 	background-color: green;
+	padding-top: 100px;
 }
 
 .logo {
@@ -18,8 +19,9 @@ body {
 .navigatiebalk {
 	background-color: darkred;
 	color: white;
+	display: flex;
 }
 
 .header img {
-	size: 500px;
+	width: 100%;
 }
