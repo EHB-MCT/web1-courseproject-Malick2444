@@ -1,0 +1,23 @@
+.wrapper {
+	background-color: darkgreen;
+}
+.header {
+	width: 100%;
+	height: 450px;
+	background-color: aquamarine;
+}
+.underheader3 {
+	display: flex;
+	height: 100px;
+}
+
+.underheader3s {
+	flex: 1;
+	margin: 5px;
+}
+
+.underheader3 img {
+	width: 33.3%;
+	height: 400px;
+	object-fit: cover;
+}
