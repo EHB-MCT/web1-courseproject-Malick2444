@@ -38,3 +38,22 @@
 	object-fit: cover;
 	background-color: teal;
 }
+
+.codecandgear {
+	display: flex;
+	height: 100px;
+	background-color: antiquewhite;
+}
+
+.codecandgears {
+	flex: 1;
+	margin: 5px;
+	background-color: brown;
+}
+
+.codecandgears img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	background-color: teal;
+}
